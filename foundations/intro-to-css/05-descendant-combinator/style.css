@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.container p{
+  color: red;
+  font-size: 20px;
+  text-align: center;
+  background-color: yellow;
+} 
+
+/* rule 1 */
+.subsection {
+  color: blue;
+}
+
+/* rule 2 */
+.main .list {
+  color: red;
+}
